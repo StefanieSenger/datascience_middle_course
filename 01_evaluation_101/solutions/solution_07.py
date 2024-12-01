@@ -1,1 +1,0 @@
-model.coef_

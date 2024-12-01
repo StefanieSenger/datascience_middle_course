@@ -1,1 +1,0 @@
-kernel_ridge_tuned.best_params_
